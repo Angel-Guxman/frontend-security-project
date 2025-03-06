@@ -17,7 +17,7 @@ Ante esta problemática, se hace evidente la necesidad de una solución tecnoló
 - Angel Manuel Guzman Hoil - 22393173
 - Usuario Git: EMECROLL - Nombre: Manuel Alejandro Pasos Cupul - 22393126 
 - Usuario Git: DiegoAle6 - Nombre: Diego Aleman Mena - 22393155 
-- [Nombre 4]
+- Usuario Git: OmarSM41 - Nombre: Luis Omar Alvarado Díaz - 19393035 
 - [Nombre 5]
 
 ## Propósito
