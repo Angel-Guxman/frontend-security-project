@@ -15,7 +15,7 @@ Ante esta problemática, se hace evidente la necesidad de una solución tecnoló
 ### grupo:IDYGS81
 
 - Angel Manuel Guzman Hoil - 22393173
-- [Nombre 2]
+- Usuario Git: EMECROLL - Nombre: Manuel Alejandro Pasos Cupul - 22393126 
 - [Nombre 3]
 - [Nombre 4]
 - [Nombre 5]
