@@ -18,7 +18,7 @@ Ante esta problemática, se hace evidente la necesidad de una solución tecnoló
 - Usuario Git: EMECROLL - Nombre: Manuel Alejandro Pasos Cupul - 22393126 
 - Usuario Git: DiegoAle6 - Nombre: Diego Aleman Mena - 22393155 
 - Usuario Git: OmarSM41 - Nombre: Luis Omar Alvarado Díaz - 19393035 
-- [Nombre 5]
+- Usuario Git: ElizabethCT26 - Nombre: Maria Elizabeth Chuc Tun - 22393165
 
 ## Propósito
 
