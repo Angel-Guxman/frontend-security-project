@@ -1,38 +1,60 @@
-# security-project
+# FINOVA
 
-This template should help get you started developing with Vue 3 in Vite.
+## Título
 
-## Recommended IDE Setup
+Sistema de Gestión Financiera
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Problemática
 
-## Type Support for `.vue` Imports in TS
+El manejo ineficiente de las finanzas personales es un problema común entre los adultos jóvenes que comienzan su vida laboral. La falta de educación financiera y la ausencia de herramientas accesibles para el control de ingresos y gastos pueden llevar a dificultades económicas, como la incapacidad de ahorrar, el sobreendeudamiento y la falta de planificación para imprevistos.
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+Ante esta problemática, se hace evidente la necesidad de una solución tecnológica que ayude a los jóvenes a gestionar sus finanzas de manera eficiente. Una aplicación web intuitiva y accesible, que permita registrar transacciones diarias, categorizar gastos y generar reportes visuales, podría contribuir significativamente a fomentar hábitos financieros saludables.
 
-## Customize configuration
+## Integrantes
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+### grupo:IDYGS81
 
-## Project Setup
+- Angel Manuel Guzman Hoil - 22393173
+- [Nombre 2]
+- [Nombre 3]
+- [Nombre 4]
+- [Nombre 5]
+
+## Propósito
+
+Brindar a los usuarios una herramienta intuitiva y eficiente que les permita llevar un control detallado de sus ingresos y egresos, facilitando la toma de decisiones financieras con base en los datos gestionados dentro de la aplicación.
+
+## Objetivo General
+
+Desarrollar una aplicación web de gestión financiera que permita administrar ingresos y egresos de manera eficiente, aprovechando las capacidades de Vue.js en el frontend para una experiencia de usuario dinámica y .NET en el backend para garantizar un procesamiento seguro y eficiente de la información financiera.
+
+## Tecnologías y Librerías Utilizadas
+
+- **Frontend:** Vue.js, Vite, Tailwind CSS, Flowbite, Pinia, Vue Router, Vee Validate, Axios, Yup.
+- **Gráficos y Análisis:** Chart.js y Lightweight-Charts.
+- **Gestor de paquetes:** pnpm.
+
+## Configuración del Proyecto
+
+### Instalación de Dependencias
 
 ```sh
 pnpm install
 ```
 
-### Compile and Hot-Reload for Development
+### Ejecutar en Modo Desarrollo
 
 ```sh
 pnpm dev
 ```
 
-### Type-Check, Compile and Minify for Production
+### Compilar y Minificar para Producción
 
 ```sh
 pnpm build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+### Verificación de Estilo de Código con ESLint
 
 ```sh
 pnpm lint
